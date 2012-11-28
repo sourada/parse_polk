@@ -1,0 +1,6 @@
+#!/bin/sh
+if [ $# -gt 0 ]; then files=$1; else files=TEST_*; fi
+if [ `find -maxdepth 1 -type f -name "TEST_*" | wc -l` -gt 0 ]; then
+	for a in $files; do b=${a#TEST_}; echo $a; meld $a $b; read -p "Good? " good; if [ "$good" = "y" ]; then mv $a $b; fi done
+fi
+

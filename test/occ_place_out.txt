@@ -1,0 +1,4 @@
+last_name,first_name,middle_name,occupation,occupation_place,address_category,address_number,address_street,address_cross_1,address_cross_2
+Adams,Caroline,,tchr,H S,r,807,Douglas,,
+Adams,Clinton,J,stdt,H S,r,807,Douglas,,
+Adams,Percy,K,wks,Twin Star Theatre,r,613,6th,,

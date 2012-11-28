@@ -1,0 +1,3 @@
+last_name,first_name,middle_name,occupation,occupation_place,address_category,address_number,address_street,address_cross_1,address_cross_2
+Adams,Confectionery,,H,Adams prop,,222,Main,,
+Alexander,Garden,Plow Factory,prop,Alexander S,4th,and,Oak,,

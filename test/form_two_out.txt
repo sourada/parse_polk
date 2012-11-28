@@ -1,0 +1,3 @@
+last_name,first_name,middle_name,occupation,occupation_place,address_category,address_number,address_street,address_cross_1,address_cross_2
+Adamson,James,,dr,,r,603,Burnett,,
+Adamson,Golda,,,,r,603,Burnett,,

@@ -1,0 +1,11 @@
+last_name,first_name,middle_name,occupation,occupation_place,address_category,address_number,address_street,address_cross_1,address_cross_2
+Allen,Mary,F,,,r,209,10th,,
+Allen,Mary,,,,r,829,Douglas,,
+Amme,Lewie,E,carrier,P O,,,,,
+Allan,John,,prop garage,,r,609,7th,,
+Allan,Nina,C,,,r,609,7th,,
+Britten,Naomi,,stdt,ISC,r,1122,Clark,,
+Brooks,Earl,,stdt,ISC,r,522,Douglas,,
+Brooks,Ida,,,,r,202,Lincoln Way,,
+Brooks,Jessie,,bkpr,HWC,,522,Douglas,,
+Fish,Wm,,stngr,ISC,r,326,Hazel,,
