@@ -68,7 +68,7 @@ def parse(lines):
 		wife_middle_name = ''
 
 		# widow
-		m = re.match(r'(.*?) \((wid .*?)\)(.*)', names)
+		m = re.match(r'(.*?) \((wid .*?)\)(.*)', names, re.IGNORECASE)
 		if m:
 			# just ignore the wid thing. The guy isn't living any more, don't add him.
 			names = m.group(1) + m.group(3)
