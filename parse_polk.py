@@ -120,6 +120,7 @@ def parse(lines):
 			ret_line = ','.join(wife_column_vals)
 			ret.append(ret_line)
 
+	# TODO: do an alphabetical-order check here
 	return (ret, err)
 
 def read_file(filename):
