@@ -32,7 +32,10 @@ def parse(lines):
 
 		# remove spurious first char(s)
 		line = re.sub(r'^([-(\'!|j]|([iI] ))', '', line)
-
+		
+		# remove spurious end char(s)
+		line = re.sub(r'%$', '', line)
+		
 		# split by commas
 		comma_fields = [f.strip() for f in line.split(',')]
 		occupation_and_place = ''
@@ -101,6 +104,9 @@ def parse(lines):
 				address_number, address_street = address_fields
 			elif len(address_fields) > 2:
 				address_category, address_number, address_street = address_fields
+
+		# fix some common OCR errors
+		address_number = re.sub(r'(\d+)%', r'\1 1/2', address_number)
 
 		# fill in CSV line
 		v = locals()

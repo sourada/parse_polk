@@ -1,0 +1,3 @@
+#!/bin/bash
+
+PYTHONPATH=.. python test_parse_polk.py

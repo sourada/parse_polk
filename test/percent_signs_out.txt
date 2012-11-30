@@ -1,0 +1,9 @@
+last_name,first_name,middle_name,occupation,occupation_place,address_category,address_number,address_street,address_cross_1,address_cross_2
+BEST,ORLO,,frm,Best Electric Co,r,130 1/2,Main,,
+BEST,Bess,,,,r,130 1/2,Main,,
+Betterton,Art,,mgr,Moody Motor Co,r,136 1/2,Main,,
+Blakey,Anna,,,,r,2424 1/2,Lincoln Way,,
+Blakey,Maizie,,stdt,,r,2424 1/2,Lincoln Way,,
+Blakey,Marjorie,,stdt,HS,r,2424 1/2,Lincoln Way,,
+Britten,Alonga,,jan,,r,1122,Clark,,
+Britten,Myra,,,,r,1122,Clark,,

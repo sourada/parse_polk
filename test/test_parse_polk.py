@@ -2,6 +2,8 @@ import unittest
 from os import path
 from parse_polk import parse_file, read_file, write_file
 
+TEST_DIR = './'
+
 class TestParsePolk(unittest.TestCase):
 	def test_form_one(self):
 		self.do_test('form_one')
@@ -43,24 +45,27 @@ class TestParsePolk(unittest.TestCase):
 	def test_spurious_first_char(self):
 		self.do_test('spurious_first_char')
 
-	def do_test(self, fn_base):
-		real_ret, real_err = parse_file('test/' + fn_base + '_in.txt')
+	def test_percent_signs(self):
+		self.do_test('percent_signs')
 
-		expected_ret_path = 'test/' + fn_base + '_out.txt'
+	def do_test(self, fn_base):
+		real_ret, real_err = parse_file(TEST_DIR + fn_base + '_in.txt')
+
+		expected_ret_path = TEST_DIR + fn_base + '_out.txt'
 		expected_ret = None
 		if path.exists(expected_ret_path):
 			expected_ret = read_file(expected_ret_path)
 		if expected_ret is None or expected_ret != real_ret:
-			bad_ret_path = 'test/TEST_' + fn_base + '_out.txt'
+			bad_ret_path = TEST_DIR + 'TEST_' + fn_base + '_out.txt'
 			write_file(bad_ret_path, real_ret)
 			print 'wrote ' + bad_ret_path
 
-		expected_err_path = 'test/' + fn_base + '_err.txt'
+		expected_err_path = TEST_DIR + fn_base + '_err.txt'
 		expected_err = None
 		if path.exists(expected_err_path):
 			expected_err = read_file(expected_err_path)
 		if expected_err is None or expected_err != real_err:
-			bad_err_path = 'test/TEST_' + fn_base + '_err.txt'
+			bad_err_path = TEST_DIR + 'TEST_' + fn_base + '_err.txt'
 			write_file(bad_err_path, real_err)
 			print 'wrote ' + bad_err_path
 
