@@ -33,6 +33,7 @@ LINE: while (<>) {
   s/\W*$//;
   
 #  s/^\\emdash/$prev_last_name/;
+  s/^—/$prev_last_name/;
   
   @line = split(/ /);
   $cols = scalar(@line);
@@ -50,13 +51,13 @@ LINE: while (<>) {
     $mid_initial = shift(@line);
   }
   
-  if ((scalar(@line != 0) && $line[0] =~ /^\(/)) {
-    while ($line[0] !~ /\)$/) {
+  if ((scalar(@line) != 0) && ($line[0] =~ /^\(/ )) {
+    while ((scalar(@line) != 0) && ($line[0] !~ /\)$/)) {
       shift(@line);
-    }  
+    }
     shift(@line);
   }
-      
+  
   while ((scalar(@line) != 0) && ($line[0] !~ m/[hr][lO\d]\d*|rISC/)) {
     $occupaton .= " ".shift(@line);
   }
