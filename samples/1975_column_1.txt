@@ -1,0 +1,825 @@
+﻿4
+ALBRIGHT
+” Gwendolyn tchr PS rllll S 2d St
+” Merrill R (Judy L) rte slsmn Mari Gold
+Dairy hl323 Barkley Ct
+” Miles V (Gwendolyn R) supvr ISU hi 111
+S	2d St
+” Susan D row agt State Dept Of Trans
+rBoone
+” Vallin L constn tech State Dept Of Trans
+rDavenport la
+” Vernon L constn tech State Dept Of Trans
+rMason City la
+Alcott Chauncey R (Dorothy) partsmn
+Mathison Ford h326 S Hazel Av
+” Dorothy key punch opr ISU r326 S Hazel
+Alderman Danl (Jody) studt hl273
+Hawthorn Ct
+” Dave mgr Hen House Interstate Standard
+rl810 Maxwell
+” Valois L (S Mary) elk Postal Service
+hl810 Maxwell Av
+Alders Dean C studt hl21 Dotson Dr Apt 1
+Alderson Beverly A elk sten State Dept Of
+Trans h420 Walnut Av Apt 16
+Alderton Jo Ann N economist ISU rBx 70
+Dannellson
+Aldinger Karl W (Edna S) retd h2221
+Burnett Av
+Aldrich Albert H equip opr State Dept Of
+Trans rRedfield la
+” Darrell drillers hlpr Layne Western hl26
+Howard Av
+” Glenda barber University Barber Salon
+rCambridge
+” Graig D eng aide State Dept Of Trans
+r Fairfax
+Aldridge Debra studt r803 Kellogg Av
+Ai-Dujaili Hamza (Nidhal) studt hi 13
+University Village Apt D
+Aleang Chandra budget asst ISU r862
+Pammel
+Aleong John (Chandra) studt hl255
+Hawthorn Ct
+Alexander Billie R (Patricia A) bar mgr
+Ames Golf & Country Club h301
+Rockwell Av
+” Carol studt h221 S Oak Av Apt 27
+” Christie elk ISU rRt 1 Ogden la
+” Christina bindery opr ISU r429 E 6th
+” David G asst ISU rl422 13th St
+” Donald slsmn Penneys rBoone la
+” Donald D Jr info splst State Dept Of Trans
+rBoone
+” Douglas bartndr Cy’s Lounge rCampus Av
+” Garry J (Christina S) film tape asst ISU
+h429 E 6th St
+” Ivan C wldr State Dept Of Trans rOgden
+” J Davidson asst prof ISU h306 Hayward
+Av
+” Jack M (Lyn B) prof in charge ISU h412
+Ash Av
+” James G custdn Ames Pub Lib hll9 High
+Av
+F"	———	I————
+0
+ALPHA
+” Kappa Lambda Mrs Dorothy Gibson
+Residence Dir 2635 Knapp St
+” Omicron Pi Sorority Mrs Eliz Lampe House
+Mother 2007 Greeley St
+” Sigma Phi Fraternity 2717 West St
+” Xi Delta Sorority Mrs Mildred Aumann
+Res Dir 315 Lynn Av
+Alpha Duane studt h319 Stanton Av Apt 2
+Alquist Larry studt hi 14 S Hyland Av Apt
+7
+Alsager Olive G dept head Younkers Bros
+rStory City la
+Alain A Mae Mrs laby asst ISU rBoone
+Iowa
+Alt Klaus F emp ISU rRt 1
+” Nancy K elk World Of Fabrics r610 9th
+St
+” Steven R (Nancy K) patrolmn State Hwy
+Patrol h610 9th St
+Altenhofen Karen mail elk Hach Chem
+hl401 Carroll Av
+” Patk (Twila) mgr Ames Mtr Lodge h3l8 E
+Lincoln Way
+” Twila Mrs mgr Ames Mtr Lodge r318 E
+Lincoln Way
+Althaus Dale L (Reta A) anesthetist h2300
+Van Buren Av
+Altman David A (Sandra L) studt hlOOl
+Pammel Ct
+Alva Robt (Beatrice) eng Hwy Admn h5001
+Todd Dr
+Amandus Janice J elk-typ ISU
+Amber’s Flowers (Mrs Amber G Davis) 2010
+Kellogg Av
+Ambroson Monte (Karen L) mtce supvr
+Target h2402 Melrose Av
+Ameen Richd comp prog State Dept Of Trans
+rNevada
+Amemiya Minoru (Grace A) prof ISU h304
+Hilltop Rd
+” Robt K studt r304 Hilltop Rd
+Amensen Marcia A elk sten State Dept Of
+Trans rl312 Stafford Av
+” Milford E (Sophie F) jan ISU hl312
+Stafford Av
+” Sonjia D elk State Dept Of Trans rl312
+Stafford Av
+” Sophie custdn ISU rl312 Stafford
+Amenson Debra J elk-typ ISU rRt 1
+Roland
+” Harry mach ISU rRoland Iowa
+” Jerry L tech ISU rBx 15 Roland
+” Kath M ofc sec ISU rRoland la
+American Family Insurance Wm Webb Dist
+Mgr 819 Lincoln Way
+” Heirloom Gallery (Dick Yegge And David
+Hale) furn sis 2801 Grand Av
+” Legion Club 227 V4 Main St
+” Legion Women Auxiliary 227 Vi Main St
+Amerson Michl emp Ames Nursery hBsmt
+330 S 4th St
+I
+e
+ALPHA
+” Kappa Lambda Mrs Dorothy Gibson
+Residence Dir 2635 Knapp St
+” Omicron Pi Sorority Mrs Eliz Lampe House
+Mother 2007 Greeley St
+” Sigma Phi Fraternity 2717 West St
+” Xi Delta Sorority Mrs Mildred Aumann
+Res Dir 315 Lynn Av
+Alphs Duane studt h319 Stanton Av Apt 2
+Alquist Larry studt hi 14 S Hyland Av Apt
+7
+Alsager Olive G dept head Younkers Bros
+rStory City la
+Alsin A Mae Mrs laby asst ISU rBoone
+Iowa
+Alt Klaus F emp ISU rRt 1
+” Nancy K elk World Of Fabrics r610 9th
+St
+” Steven R (Nancy K) patrolmn State Hwy
+Patrol h610 9th St
+Altenhofen Karen mail elk Hach Chem
+hl401 Carroll Av
+” Patk (Twila) mgr Ames Mtr Lodge h3l8 E
+Lincoln Way
+” Twila Mrs mgr Ames Mtr Lodge r318 E
+Lincoln Way
+Althaus Dale L (Reta A) anesthetist h2300
+Van Buren Av
+Altman David A (Sandra L) studt hlOOl
+Pammel Ct
+Alva Robt (Beatrice) eng Hwy Admn h5001
+Todd Dr
+Amandus Janice J elk-typ ISU
+Amber’s Flowers (Mrs Amber G Davis) 2010
+Kellogg Av
+Ambroson Monte (Karen L) mtce supvr
+Target h2402 Melrose Av
+Ameen Richd comp prog State Dept Of Trans
+rNevada
+Amemiya Minoru (Grace A) prof ISU h304
+Hilltop Rd
+” Robt K studt r304 Hilltop Rd
+Amensen Marcia A elk sten State Dept Of
+Trans rl312 Stafford Av
+” Milford E (Sophie F) jan ISU hl312
+Stafford Av
+” Sonjia D elk State Dept Of Trans rl312
+Stafford Av
+” Sophie custdn ISU rl312 Stafford
+Amenson Debra J elk-typ ISU rRt 1
+Roland
+” Harry mach ISU rRoland Iowa
+” Jerry L tech ISU rBx 15 Roland
+” Kath M ofc sec ISU rRoland la
+American Family Insurance Wm Webb Dist
+Mgr 819 Lincoln Way
+” Heirloom Gallery (Dick Yegge And David
+Hale) fura sis 2801 Grand Av
+” Legion Club 227Vi Main St
+” Legion Women Auxiliary 227 Vi Main St
+Amerson Michl emp Ames Nursery hBsmt
+330 S 4th St
+I"	-
+8
+AMES MILLWORK &
+SUPPLY INC
+Richard Roberts President, Jack
+Adams Vice-President, Woodwork
+Screens, Frames, Formica Tops,
+Kitchen Cabinets, Mouldings,
+Stairways, Cupboards, Hardware,
+Store Fixtures, 551 S Duff Av, Tel
+232-4102 (See Index To Advertisers)
+” Motor Lodge Inc Patk & Twila Altenhofen
+Mgrs 318 E Lincoln Way
+” Multiple Listing Service Evelyn Mickle
+Exec Sec 240 Vi Main St Rm 234
+” News Agency Inc Mrs Rowena J Hurlbut
+Pres-Sec Gary D Hurlbut V- Pres-Treas
+221 Main St
+AMES NURSERY INC
+Lloyd Cafferty Pres, Professional
+Nurserymen, Member Of American
+Association Of Nurserymen, Highway
+69, 2 Miles South Of New Highway
+30, Tel 232-2840
+AMES PANTORIUM
+(Lloyd Skortman And Havard
+Hedrick) Finest In Cleaning, Hat
+Blocking, Tailoring, Storage And
+Shower Proofing, 410 Douglas Av, Tel
+232-4302 (See Index To Advertisers)
+AMES PLUMBING INC
+Wm J Weiss President-Treasurer-
+Manager, Marjorie E Weiss Vice-
+President-Secretary, Commercial And
+Domestic Plumbing, 704 Dayton Av,
+RD 2, Tel 232-7983 (See Index To
+Advertisers)
+” Plumbing Supply Co Arth L Smith Mgr
+820 2d St
+” Post 37 (Am Legion) 227 Vi Main St
+” Processed Foods Co (Dick Holtz) 906 S Duff
+Av
+’’ Professional Fire Fighters Union Local 625
+James Hoffman Pres Dave Davison V*
+Pres Michl Childs Sec-Treas 132 Welch
+Av
+T TTyTT'T'TTTTTTTT
+AMES PUBLIC LIBRARY
+210 6th St, Tel 232-4404
+” Ready Mix Concrete Inc Jame9 Rasmussen
+Pres plant 1109 E Lincoln Way
+AMES REAL ESTATE
+CENTER
+(David A Norris), GRI Broker
+Multiple Listing Affiliate, Computer
+Investment Analysis 6th St And
+I-
+10
+ANDERSON
+” Dale B (Eleanor C) sup test laby
+Sundstrand hl318 Arthur Dr
+” Dale L (Sharon J) instr & coach ISU h805
+Ridgewood Av
+” Danl (Maryls) studt hl392 Hawthorn Ct
+” David E emp State Dept Of Trans
+rPittsburg Pa
+” David F tech ISU rl30 University Village
+Apt A
+’’ David J (Barbara J) studt h524
+Northwestern Av
+” David M studt h819 Lincoln Way Apt 2
+” David R (Carleen) emp City Of Ames r7a
+Mayor Ct
+” Dennis E (Janis) meter rdr la Elec L & P
+Co rGilbert la
+” Dennis R (Ranae) firefighter City Fire Dept
+rLot 29 Kings Ter Mobile Home Ct
+Anderson DeWayne C MD (Harriett; The
+McFarland Clinic), General Medicine,
+McFarland Clinic Bldg, 12th St And
+Douglas Av, Tel 232-4530
+” Donald A emp State Dept Of Trans
+rHuxley
+” Donald A (Marie P) hwy eng State Hwy
+Comn hl804 Maxwell Av
+” Donald G (Dolah M) electn servmn
+Municipal Light & Pwr h213 Mulberry
+Blvd
+” Donald K (Janice) truck driver h711
+Ridgewood Av
+" Donald O (Guinevere) retd h2130 Me
+Carthy Rd
+” Doris Mrs hsekpg Me Farland Clinic rl403
+Clark
+” Dorothy teller Des Moines Savs & Loan
+h625 13th St
+” Duane E studt rl804 Maxwell Av
+” E Walter assoc ISU h3420 Woodland St
+” Earl R (Teresa) feeder College Poultry
+Farm h316 Lincoln Way Lot 12
+” Edna M elk ISU r4145 Toronto
+” Edw H auto mech State Dept Of Trans
+r€25 13th St
+” Elaine Mrs asst admn Northcrest
+Retirement Community r2225 Hayes Av
+” Eleanor elk ISU r425 Hilltop Rd
+” Elinor A elk State Dept Of Trans rHuxley
+” Emma T sten ISU r€26 13th St
+” Erickson Dairy (Br) Lester E Scott Mgr
+dairy Me Cormick Av
+” Erik (Carol A) studt h3525 Tripp St
+” Ernest W (F Evelyn) dist prof ISU h2318
+Donald St
+” Ethel I maid ISU rBx 1 Stanhope
+” Floyd H custdn ISU rGilbert Iowa
+” Frank B hl222 Roosevelt Av
+” Frank L equip opr State Dept Of Trans
+rForest City la
+” Fred tchr PS rRt 3 Bx 67
+” Fredk L sta eng formn State Dept Of
+Trans rMadrid la
+I---
+I
+J	1
+m	«■■■■—■■ ■■■■ ■ ■ ■ Mini in .	——	■»■—————————
+ANDERSON
+Stanley L (Alice J) ydmn Schoenemen Bros
+hi003 Pammel Ct
+Steph M studt r2225 Hayes Av
+” Steve (Jo) studt h712‘/*» Duff Av
+” Steven studt r3406 Tripp St
+” Susan studt rl007 N Hyland Av
+” T J Jr eng aide State Dept Of Trans
+rWaterloo la
+” Theo J advisor ISU h2707 Luther Dr Apt
+11
+” Valerie recpt Mathison Ford LTD r3006
+Ontario
+Veva (Wid Henry) retd h915 Maxwell Av
+Victor L (Carolyn B) (Thermal Accoustical
+Insulation Co) hl469 Breckenridge Ct
+” Vincent M (Edith) retd h2515 Timberland
+Rd
+Virginia Mrs (Cyclone Copy Center) rRD 4
+” Vivian prs Ames Pantorium r3707
+Emerald Dr
+Willard R asst prof ISU rRt 2 Story City
+Iowa
+Anderson’s Beauty Salon (Mrs Lillian C
+Schwenk) 2528 Lincoln Way
+Andre Avis L (Wid Floyd) admn asst ISU
+h2109 Ashmore Cir
+Thos (Sheryl) asst rpof ISU h4015 Quebec
+St
+” Wayne F equip opr State Dept Of Trans
+rEstherville la
+Andreae Jeanne M studt rl631 Carroll Av
+Jeannette E Mrs bookmobile librn Ames
+Pub Lib rl63l Carroll Av
+” John H (Jeannette E) dist rep Lutheran
+Brotherhood (Minneapolis Minn) hl631
+Carroll Av
+Andresen Edwin R hwy mtcemn State Dept
+Of Trans rDe Witt
+Lisa elk State Dept Of Trans rNevada
+” Lisa nurses aide North Grand Care Center
+r803 '/2 Burnett Av
+Robt D admn ofc State Dept Of Trans
+rNevada la
+Andreski Felix (Florence) jan St Cecilia Sch
+h320 S Hazel Av
+Andrew Beatrice B laby tech U S Dept Agrl
+rlllO Duff
+Carl B (Beatrice B) rural carrier Postal
+Service hi 110 Duff Av
+F Merle (Karen M) auto mech State Dept
+Of Trans h807 6th St
+” Frank USMC rlllO Duff Av
+” James F (Marjorie D) tech ISU hl212
+13th St
+” Janet studt h2818 West St Apt 2
+” Jean h420 E 7th St Apt D2
+John C matl laby tech State Dept Of Trans
+rBx 173 Colo
+Sarah J (Wid Frank) retd h604 7th St
+Andrews Archie M (Carol M) studt hl506
+Hawthorn Ct
+Carol elk ISU rl506 Hawthorn
+I---
+14
+AENBAL
+Arnbal Carl A (Una S) assoc prof ISU
+h3439 Woodland St
+Arndt Duane R mtcemn State Dept Of Trans
+rJewell la
+” Kenneth M eng aide State Dept Of Trans
+r619 7th St
+” Ronald J eng aide State Dept Of Trans
+rFairfield
+Arnfree Robt A studt h433 Pammel Ct
+Arnold Barry C (Carole) prof ISU hl207
+Quebec Cir
+” Donald studt hl09 E Date Ct
+” Eldon P auto mech State Dept Of Trans
+rSloan la
+” Floyd J (Mary) prof ISU hill Lynn Av
+Apt 506
+” Jennifer J elk ISU h713 Meadow PI
+” Julie A sec ISU r3 Hirsch Ct Apt B
+” Junis J (Wid Cleo) hsekpr Mary Greeley
+Hosp h808 xh Clark Av
+” Leo constn wkr Gethmann Constn
+rGladbrook la
+” Linda L cook Ramada Inn h316 Lincoln
+Way Lot 2
+” Loren S (Marguerite) retd h306 Mulberry
+Blvd
+” Melvin F mtce opr acct State Dept Of
+Trans rDubuque la
+” Motor Supply Keith Kline Mgr auto parts
+120 Walnut Av
+” Myrtle M (Wid Richard) retd h830
+Ridgewood Av
+” Tom A (Mary E) asst prof ISU h2502
+Eisenhower Av
+” Verle (Julie A) studt h3 Hirsch Ct Apt B
+” Wilma A (Wid Sherman B) hl023 Marston
+Av
+Ararich Lotte prof ISU rll21 N Hyland Av
+Aras Teri studt h3404 Coy St Apt 7
+Aron Erma E tchr PS hl03 Stanton Av Apt
+32
+Arp Greg studt h2129 Sunset Dr
+” Peter W formn State Dept Of Trans
+rDavenport la
+Arrasmith Emma L (Wid Lyman C) retd
+hl505 Douglas Av
+” Emma M Mrs elk ISU rl414 Coolidge Dr
+” Lael E licensed practical nurse Mary
+Greeley Hosp hi 112 Kellogg Av Apt 2
+” Robt E (Emma M) retd hl414 Coolidge Dr
+Arrick S Antone hwy mtcemn State Dept Of
+Trans rCrescent
+Arrington Woodrow Jr hwy mtcemn State
+Dept Of Trans rSioux City
+Arrsvold Sue recpt Me Farland Chvjc r2220
+Jensen
+ART BATES COMPANY
+(ABC)
+(Art Bates Jr) Smith-Corona And
+Olympia Typewriters, ASE Office
+Furniture, Business Machines, Sales,
+16
+BAAGOE
+Baagoe Kent J mtl insp State Dept Of Trans
+rMapleton
+Baal Jody slswn Caravan Imports rGlendale
+Babbitt Charles C land surveyor State Dept
+Of Trans rMason City
+” Scott C mtl insp State Dept Of Trans
+rMason City
+Babcany Gerald M eng aide 1 State Dept Of
+Trans r212 Sumner
+Babcock Eugene E (Shirley D) carp contr PS
+h20l3 Roosevelt Cir
+” Larinda D studt r20l3 Roosevelt Cir
+Babich Cynthia casewkr supvr Shelter House
+r617 Northwestern
+” Michl W (Cynthia A) res post doctorate
+ISU h617 Northwestern Av
+Bablin Diane studt h2818 West St Apt 3
+” Mary studt r2818 West St Apt 3
+Bacal Charlotte tchr Center For
+Transcendental Meditation
+Bacher Pat studt h2709 Lincoln Way Apt
+207
+Bachman Edna Mrs rec supvr Me Farland
+Clinic rl513 Marston
+” Leon (Edna K) sis mn Penneys hl513
+Marston Av
+” Robert Z (Catherine A) assoc chem ISU
+h822 Brookridge Av
+” Sheri house mother Sigma Kappa Sorority
+” Wm C chkpr State Dept Of Trans r822
+Brookridge
+Bachmann Kurt (Linda) track insp C & N W
+hll5 E 14th St
+” Marilyn asst prof ISU rRt 3
+” Roger W prof ISU rRt 3
+” Thos A (Gloria J) mgr N A D L Credit
+Union h302 Colorado Cir
+Back Door Cal L Arthur Mgr tavern 436 S
+Duff Av
+Backer David R emp Sunstrand Hydro
+Transmission rMaxwell la
+” Les hl809 Douglas Av
+” Rita H accts rec elk ISU rRt 2 Bx 300
+Maxwell la
+Backhus Dennis bodymn Ray’s Body & Paint
+Shop rNevada la
+” Thos A asst coach ISU h3827 Quebec St
+Backlund Jeanne laby tech ISU r816
+Pammel Ct
+” Nels E (Jeanne L) studt h816 Pammel Ct
+Backous Darwin L drftsmn State Dept Of
+Trans rBoone la
+’’EM retd h322 7th St
+” Le Ann reservationist World Wide Travel
+Cntr rGas Light Village Lot 206 Neveda
+Ia
+” Robert L (Elsie) emp Hy Vee Food Store
+No 2 rBoone Iowa
+Backsen John C hwy mtcemn State Dept Of
+Trans rCreston Ia
+Bacon Elmer D auto mech State Dept Of
+Trans rDes Moines
+. ___________
+18
+BAKER
+” James L (Margery L) asst prof ISU h922
+Roosevelt Av
+” James L (Denise M) studt hl44 University
+Village Apt B
+” Jane E chkr State Dept Of Trans rEarly
+” Jani studt r2304 Knapp St Apt 3
+” Jeanne h3000 Regency Ct Apt 17
+” Jeanne L sis assoc Penneys rRegency Ct
+” Jerry L (Barbara J) prod tstr Sundstrand
+h3809 Quebec St
+” Jerry R (Linda A) div mgr Sears hl408
+Wheeler St
+” John R (Laura L) ins agt N Y Life Ins
+hl527 Kellogg Av
+” Kenneth R eng aide State Dept Of Trans
+rDes Moines la
+" Kent A equip opr State Dept Of Trans
+rManchester la
+” Larry W asst mgr Randall’s rJewell la
+” Margt pmtr State Dept Of Trans rBoone
+” Michl M eng aide State Dept Of Trans
+rMt Pleasant
+” Myma Mrs food serv wkr PS rRt 1
+” Nancy J elk typ State Dept Of Trans
+rl405 16th St Bsmt
+” Norman H asst dir data processing State
+Dept Of Trans rCambridge la
+” Richd L (Joan E) carrier Postal Service
+h930 Ash Av
+” Rob studt h512 Hayward Av
+” Robt h3905 Quebec St
+” Robt N plmb ISU rBoone la
+” Theo R storemn State Dept Of Trans rDes
+Moines
+” Virginia emp PS rll03 11th St Boone la
+” Warren L (Connie) agt Allstate Ins h3914
+Toronto St
+Baker’s Buffet (Mrs Celia Baker) 4010
+Lincoln Way
+Bakka Doris W Mrs equip opr ISU rRoland
+Iowa
+Bakke Dean E studt r2021 Me Carthy Rd
+” Gaylord M (Marjorie E) slsmn Bledsoe's
+h2021 Me Carthy Rd
+” Jeanette D (Wid Arth L) hill Lynn Av
+Apt 608
+” Marjorie tchr PS r2021 Me Carthy Rd
+Bakken Lillian G ofc sec State Dept Of
+Trans rDecorah la
+Bal Harbhajan dat ent opr State Dept Of
+Trans rl512 Glendale
+” Harpal Sirrgh (Harbhajan) asst prof ISU
+hl512 Glendale Av
+Balcom Ed studt h209 N Hyland Av Apt 4
+” Leonard C mtce eng State Dept Of Trans
+rCedar Rapids la
+Baldridge Bill (Mary) research assoc ISU
+h220 Beedle Dr
+Baldus Earl P (Reinelda I) retd hi 128 2d St
+20
+BAPPE	]
+” Walter R (Irene L) retd h321 Washington ]
+Av
+Bara Cheryl studt h224 Hayward Av Apt 5
+Barb Ken (Marilyn) grad studt hl405	]
+Maxwell Av
+Barbara Jean’s School Of Dance (Mrs
+Barbara Jean Van Scoy) 803 24th St
+Barber David E (Susan) driver Macken Trans
+&	Stge h806 Top-O-Hollow Rd
+” Donald E (Leanna) pres Barber’s Mtl
+Fabricating Inc h3304 Hoover Av
+” Jerry L (De Ann L) (Jerry’s Barber Shop)
+h427 24th St
+” Leanna sec Barbers’s Metal Fabricating
+r3304 Hoover Av
+” Lloyd G formn State Dept Of Trans rDe
+Witt la
+” Michl dir mach tran State Dept Of Trans
+rDes Moines la
+” Ray G (Shirley M) mtcemn City Water
+Distribution hi 133 Northwestern Av
+BARBER’S METAL FABRICATING INC
+Donald E Barber President, Leanna
+K Barber Secretary-Treasurer, Custom
+Steel Work, Ornamental Iron Work,
+Trailer Hitches, Metal Fabricating,
+Welding For All Needs, Portable
+Welding, 520 S Duff Av, PO Box 345,
+Tel 232-2228
+” Metal Fabricating Inc Donald E Barber
+Pres Leanna Barber Sec-Treas 520 S
+Duff Av
+Barberio Cheese House (Stanley & Edith
+Van Voorhis) 2801 Grand Av
+Barcus Gregg A (Judy H) studt hl007
+Lincoln Way Apt 1
+” Judith custodial wkr State Dept Of Trans
+r2611 Melrose Av
+” Paul W (Susanna) asst to dean ISU h917
+Arizona Av
+” Susanna sec ISU r917 Arizona Av
+” Warren L custdn State Dept Of Trans
+rAdel Iowa
+Barefoot Vickie hostess Inti Hse Of Pancakes
+r3208 Lettie St
+Baretich Matthew (Denise) studt h590
+Pammel Ct
+Barfknecht Jerry studt h719 Douglas Av
+Apt 3
+Bargabos Larry D (Karen) policemn City Of
+Ames rRt 2
+Barger Dewey G store kpr ISU rBox 203
+Ogden Iowa
+” Elinor retd h326 N Franklin Av
+” Lewis W (Ruth J) stage mgr C Y Stephens
+Auditorium hl335 Wilson Av
+Barinsky Gregory studt h3506 Lincoln Way
+Apt 3
+Bark La Vonne B elk World Of Fabrics
+rl424 Marston St
+” Richd D (La Vonne E) tchr hl424
+Marston Av
+I	'	'
+22
+BARTLETT	*
+” Steph D hwy mtcemn State Dept Of Trans
+rMoravia
+Bartley W h407 S 5th St Apt 48
+Bartling Ralph H equip opr State Dept Of
+Trans rDenver la
+Barton Arth L (Cinthia J) emp City Of Ames
+h621 11th St	]
+” Cynthia J emp PS r621 11th
+” John P (Jennifer S) Stocker Ames Fruit &
+Gro hl520 Ridgewood Av
+” Lester R eng aide State Dept Of Trans
+rCreston la
+” Thos A (Mary A) prof ISU h839
+Brookridge Av
+” Thos J (Eliza S) asst prof ISU h512 Lynn
+Av
+Bartos Charlie equip opr State Dept Of Trans
+rTraer la
+” Fredk sr hwy wkr State Dept Of Trans
+r4317 Lincoln Swing
+Bartsch Barbara ofc sec State Dept Of Trans
+rNevada
+” Thos W (Jean) asst prof ISU hl323
+Alabama La
+Bartusek Marcus A equip opr State Dept Of
+Trans rManley la
+Bartz Wayne H prof ISU h200 Westbend Cir
+Barvis Gregg slsmn Penneys
+Basart John P (Luann K) asst prof ISU
+h611 Lynn Av
+Bashaw Joel studt hi 108 S 4th St Apt 36
+Baskin-Robbins Campus Town James Allen
+Mgr Ice Cream Store 127 Welch Av
+’’-Robbins Thirty One Ice Cream Store
+(James S Allen) 2801 Grand Av
+Basmaci Sayiny Y studt rll7 Stanton Av
+Bass Charles C (Beverly R) heavy equip opr
+City Street Dept hl223 Stafford Av
+” James L hwy mtcemn State Dept Of Trans
+rCharles City la
+” Janine L elk-typ ISU rBoone la
+” Randy P studt r3126 Story St
+” Ronald D (The Auto Shop) rBoone la
+Bassett Helen retd h925 Burnett Av
+” Richd D hwy mtcemn State Dept Of Trans
+rOsceola
+Bataille Gretchen instr ISU rl420
+Breckenridge Ct
+” Robt R (Gretchen M) assoc prof ISU
+hl420 Breckenridge Ct
+” Virginia Mrs h227 N Sheldon Av
+Bateman Leonard L partsmn State Dept Of
+Trans rWest Des Mones la
+” Raymond J (Helen M) retd hl412 Duff Av
+Bates Allan E drftsmn State Dept Of Trans
+rl726 Grand Av
+” Andrew L (Sylvia V) retd hi307 Kellogg
+Av
+” Art Co (Arth S Bates Jr) 128 Main St
+” Arth S (Anne) electn ISU hl415 Crescent
+St
+” Arth S Jr (Nancy J) (Art Bates Co) rRt 1
+I	1
+24
+BEAMAN
+” Susan M eng aide State Dept Of Trans
+rManchester
+Beams Robin lay minister r804 Grand Av
+Bean Brent M (Jean A) hl620 Carroll Av
+” Glenn J constn aide State Dept Of Trans
+r Nashua
+” John R (Lois J) mach Bourn’s h723 9th St
+” Ralph (Dorothy) retd h3618 Mary Cir
+” Ralph R admn asst ISU rl410 Clark Av
+” Wm M computer opr R H Donnelley
+h3524 Lincoln Way Apt 2
+Bear Alice elk typ State Dept Of Trans
+r4215 Ontario St
+” Bruce (Delores) hi 108 S 4th St Apt 11
+” Bruce R chemist State Dept Of Trans
+rl216 Lincoln Way
+” Delores A ofc elk la District Ct rll08 S
+4th Apt 11
+” Dorothy A emp N A D L h608 Grand Av
+” Geo F mtce wkr State Dept Of Trans
+rRhoades
+” James D parts mgr Mitchell Transmission
+(Des Moines la) rl310 Garfield Av
+” Marvin D (Alice C) mail elk ISU h4215
+Ontario Rd
+” Peggy A sec ISU rl35 Dotson
+” Raymond L (Esther) custdn St Thomas
+Aquinas Catholic Church hl310 Garfield
+Av
+Beard Bill B (Nancy L) div mgr Sears hl03
+E 16th St
+” Cathy L binderywn State Dept Of Trans
+rl03 E 16th St
+” Constance L studt rl03 E 16th St
+” Hetty B studt h228 Welch Av Apt 5
+” Janet studt rll08 Murray Dr
+” Jess R (Margt E) prof-in-charge ISU
+hi 108 Murray Dr
+” Nancy Mrs slswn White’s rl03 E 16th St
+” Paul D vet U S Dept Agrl rBoone la
+Beardsley Brad (Jan) h216 Campus Av Apt
+7
+” Kenneth D eng aide State Dept Of Trans
+rAnamosa la
+” Wendell (Marie) assoc prof ISU hll7 Me
+Donald Dr
+Beasley James (Susan) div mgr Modern Guide
+To Buying Inc hl305 Alabama La
+” Susan adv mgr ISU rl305 Alabama
+Beattie James F (Helen W) laby tech NADL
+h614 16th St
+” Joan E laby tech ISU r912 Wilson Av
+” Mark mech Michael’s Cyclery r912 Wilson
+Av
+” Mary A studt r614 16th St
+” Thos A (Joan) prof U Of S Dak (Brookings)
+h912 Wilson Av
+” Tim studt h258 N Hyland Av Apt 4
+Beatty Harry W (Irene) cln Varsity Clns
+hllll Grand Av
+” Irene Mrs prsr Varsity Clns rllll Grand
+Av
+2
+ACHENBACH
+” Robt P Jr (Cathy C) studt h707Vi Burnett
+Av
+Achterhof Janice studt r426 Welch Av
+” John research asst ISU hi 100 Grand Av
+Ackarman Lawrence L equip opr State Dept
+Of Trans rGarner la
+Ackelson Susan J ofc sec ISU rRt 1 Hickory
+Ground Pk
+Acker Wayne (Virginia) carp R Friedrich &
+Sons r3405 Lincolnway
+Ackerman John L (Mary L) formn la Road
+Building h3709 Dawes Dr
+” Patti Jo clk-typ ISU h407 S 5th St Apt 2
+” Rosalie M assoc ISU rRt 2 4300
+Westbrook Apt 21
+Acklin Grace (Wid Nathan) retd rl402
+Coolidge Dr
+Acme Piano & Organ Mike Mains & Mike
+Carroll Mgrs sis 2801 Grand Av
+Actors Inc theatre 232% Main St
+” Inc Headquarters 328 Vi Main St
+AcufF Denzil (Sharon) supt Carney Bros Auto
+Salvage hl316 S Duff Av Lot 25
+” Hoyt N (Mary) tchr PS h3513 Ross Rd
+” Mary L tchr PS r3513 Ross Rd
+” Virgil R asoc ISU r412 Hayward
+Adair Clifford B equip opr State Dept Of
+Trans rLeon la
+Adams Barbara tchr assoc PS r816 Duff Av
+” Bert R (Mary E) osteo 1013 Adams hl013
+Adams St
+” Beverly Mrs sec Ames Honda Inc r505
+Westwood Dr (N)
+” Bonnie Mrs treas Ames Honda Inc r3225
+Garner Av
+” Boyd S hwy mtcemn State Dept Of Trans
+rStorm Lake
+” Bruce M (Nancy G) sis co-ordinator
+Collegiate Mfg h808 Ridgewood Av
+” C Herbert (Alice D) retd h2315 Kellogg
+Av
+” Charles A (Rosemary) mgr Old Orchard
+Mobile Home Pk hlOl Orange Av
+” Clinton J (Eliz H) farm mgr Collegiate
+Pacific hl204 Orchard Dr
+” Darol G soils field supvr State Dept Of
+Trans rStory City la
+” Debra library aide PS r3015 Story
+” Dennis M (Virginia A) grad studt hl501
+Jackson Dr
+” Donald R asst prof ISU h3012 Diamond St
+” Edw (Geneva R) studt h828 Pammel Ct
+” F Terrill (Helene R) (Adams Funeral
+Home) h2223 Northwestern Av
+” Frances retd hl80l 20th St
+” Francis S equip opr State Dept Of Trans
+rDe Witt la
+” Frank (Virginia) retd h2125 Hayes Av
+---
