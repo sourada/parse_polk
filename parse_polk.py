@@ -45,6 +45,7 @@ def parse(lines):
 			names, address = comma_fields
 		else:
 			err.append(format_err(lno, 'COMMA_FIELDS_NUM'))
+			continue
 
 		if occupation_and_place:
 			splt = occupation_and_place.split(' ')
