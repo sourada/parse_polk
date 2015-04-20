@@ -1,6 +1,7 @@
 from os import path
 import unittest
-from main import parse
+from main import Format1, Format2
+
 
 def read_test_file(name):
     with open(path.join('test_data', name + '.txt')) as f:
@@ -13,11 +14,18 @@ def read_test_file(name):
         pass
     return inp, expected
 
+
 class ExtractAddressTest(unittest.TestCase):
     def test_format_1(self):
         inp, expected = read_test_file('format_1')
-        self.assertEqual(parse(inp), expected)
+        parser = Format1()
+        self.assertEqual(parser.parse(inp), expected)
 
     def test_format_2(self):
         inp, expected = read_test_file('format_2')
-        self.assertEqual(parse(inp), expected)
+        parser = Format2()
+        self.assertEqual(parser.parse(inp), expected)
+
+#    def test_format_3(self):
+#        inp, expected = read_test_file('format_3')
+#        self.assertEqual(parse(inp), expected)
