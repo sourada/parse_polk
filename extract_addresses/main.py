@@ -9,7 +9,7 @@ junk = re.compile(r'[*<>.]')
 spaces = re.compile(r'\s+')
 
 
-class Format1(object):
+class Format1and2(object):
     def parse(self, lines):
         hits = []
 
@@ -42,11 +42,7 @@ class Format1(object):
         return fixed_hits
 
 
-class Format2(Format1):
-    # formats 1 and 2 are pretty similar
-    pass
-
-
+format_map = {1: Format1and2, 2:Format1and2 }
 if __name__ == '__main__':
     lines = []
     arg_parser = argparse.ArgumentParser(description='Parse OCR data from phonebooks')
@@ -59,6 +55,6 @@ if __name__ == '__main__':
         with open(file) as f:
             lines += [l.strip() for l in f.readlines()]
 
-    parser = Format1()
+    parser = format_map[parsed_args.format]()
     for hit in parser.parse(lines):
         print hit
